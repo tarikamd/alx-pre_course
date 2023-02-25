@@ -1,5 +1,4 @@
-echo
-<<<<<<< HEAD
+
 #!/bin/bash
 ALX
 echo "ALX School is so cool!"
@@ -7,4 +6,4 @@ echo "ALX School is so cool!"
 !/bin/bash
 ALX School
  echo ALX
-echo the school is open 
+echo "the school is open" 
